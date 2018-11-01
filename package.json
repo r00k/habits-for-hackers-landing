@@ -5,6 +5,7 @@
     "prod": "cross-env NODE_ENV=production webpack --no-progress"
   },
   "devDependencies": {
+    "copy-webpack-plugin": "^4.6.0",
     "cross-env": "^5.1",
     "css-loader": "^0.28.10",
     "extract-text-webpack-plugin": "^4.0.0-beta.0",
