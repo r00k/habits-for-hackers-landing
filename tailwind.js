@@ -113,7 +113,7 @@ let colors = {
   // 'indigo-lightest': '#e6e8ff',
 
   'purple-darkest': '#21183c',
-  'purple-darkerer': '#46337b',
+  'purple-darkerish': '#46337b',
   'purple-darker': '#382b5f',
   'purple-dark': '#794acf',
   'purple': '#9561e2',
@@ -195,6 +195,7 @@ module.exports = {
 
   fonts: {
     'sans': [
+      'Open Sans',
       'system-ui',
       'BlinkMacSystemFont',
       '-apple-system',
