@@ -28,6 +28,6 @@ module.exports = {
       filename: 'index.html',
       template: 'src/index.html',
     }),
-    new CopyWebpackPlugin(['src/assets', 'src/thanks.html'], {})
+    new CopyWebpackPlugin(['src/assets', 'src/thanks.html', 'src/done.html'], {})
   ],
 }
